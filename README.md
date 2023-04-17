@@ -1,3 +1,3 @@
-![Java](https://dev.java/assets/images/java-logo-vert-blk.png "Java")
+![Java](https://github.com/incompr/incompr/blob/main/java-logo-vert-blk-300.png "Java")
 
 test profile descr
